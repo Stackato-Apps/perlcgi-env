@@ -2,6 +2,7 @@
 
 print <<'EOT';
 Content-Type: text/html
+
 <head>
   <meta charset="utf-8" />
 
