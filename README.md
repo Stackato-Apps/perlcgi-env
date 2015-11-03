@@ -1,10 +1,10 @@
 perlcgi-env
 ===========
 
-Simple demonstration of the Stackato perlcgi framework
+Simple demonstration of the HPE Helion Stackato perlcgi framework
 
-Deploying to Stackato
----------------------
+Deploying to HPE Helion Stackato
+--------------------------------
 
 Clone the repository to a local directory. Then:
 

@@ -9,10 +9,10 @@ Content-Type: text/html
     <!-- Set the viewport width to device width for mobile -->
       <meta name="viewport" content="width=device-width" />
 
-        <title>Stackato Environment Variables</title>
+        <title>HPE Helion Stackato Environment Variables</title>
 </head>
 <body>
-<h1>[ Stackato ] Environment Variables</h1>
+<h1>[ HPE Helion Stackato ] Environment Variables</h1>
 <ul>
 EOT
 
