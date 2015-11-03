@@ -2,7 +2,7 @@ applications:
 - name: perlcgi-env
   framework:
     name: perlcgi
-  mem: 32M
+  memory: 32M
   stackato:
     # Sets the CGI index to the main application so you can use the base URL
     # without a script name.
